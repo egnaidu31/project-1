@@ -1,2 +1,1 @@
-this is for testing of java and devops
-
+this is for testing of java and devops prcticing pirpose
